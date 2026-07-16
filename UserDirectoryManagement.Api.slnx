@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="UserDirectoryManagement.Api/UserDirectoryManagement.Api.csproj" />
+  <Project Path="UserDirectoryManagement.Application/UserDirectoryManagement.Application.csproj" />
+  <Project Path="UserDirectoryManagement.Domain/UserDirectoryManagement.Domain.csproj" />
+  <Project Path="UserDirectoryManagement.Repository/UserDirectoryManagement.Repository.csproj" />
+  <Project Path="UserDirectoryManagement.Tests/UserDirectoryManagement.Tests.csproj" />
+</Solution>
