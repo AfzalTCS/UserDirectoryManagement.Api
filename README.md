@@ -18,7 +18,7 @@ C#
 
 Entity Framework Core
 
-SQL Server
+SQLlite
 
 Swagger (Swashbuckle)
 
